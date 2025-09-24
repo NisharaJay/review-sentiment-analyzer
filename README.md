@@ -2,7 +2,7 @@
 ### Project Overview
 This project predicts the sentiment of Amazon product reviews as Positive or Negative using Natural Language Processing (NLP) and machine learning.
 
-Dataset: Amazon product reviews (original source: www.kaggle.com/datasets/mahmudulhaqueshawon/amazon-product-reviews)
+Dataset: Amazon product reviews [original source](www.kaggle.com/datasets/mahmudulhaqueshawon/amazon-product-reviews)
 
 Task: Binary sentiment classification
 
